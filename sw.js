@@ -18,7 +18,7 @@
  *   back to the cache when there is no connection, which is what makes the
  *   app open at all offline.
  */
-const CACHE = 'trigo-v3';
+const CACHE = 'trigo-v3-1788602081527';
 
 self.addEventListener('install', () => self.skipWaiting());
 
